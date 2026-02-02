@@ -54,8 +54,7 @@ export const metadata: Metadata = {
   robots: {
     index: true,
     follow: true,
-  },
-    generator: 'v0.app'
+  }
 };
 
 export default function RootLayout({
